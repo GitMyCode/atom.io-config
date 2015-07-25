@@ -1,0 +1,18 @@
+"*":
+  "exception-reporting":
+    userId: "a7e8d84a-59fd-1437-d264-c48795e3af9b"
+  welcome:
+    showOnStartup: false
+  editor:
+    invisibles: {}
+    fontSize: 12
+  core: {}
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+  "atom-html-preview":
+    triggerOnSave: true
+  jshint:
+    validateOnlyOnSave: true
+  livereload:
+    applyJSLive: true
+  "git-plus": {}
